@@ -75,11 +75,11 @@ Es sei folgende Ordnerstruktur vorgegeben:
 ```
 > Um vom aktuellen Verzeichnis `src` die Datei `test.png` aus `img` zu referenzieren, benötigen wir den relativen Pfad `../resources/img/test.png`.
 > |Datei|Pfad ausgehend von `src`|
-> |-|-|
-> |`test1.png`| `./test1.png`|
-> |`test2.png`|`../resources/img/test.png`|
-> |`recording.wav`|`../resources/snd/recording.wav`|
-> |`main.py`|`./main.py`|
+|-|-|
+|`test1.png`| `./test1.png`|
+|`test2.png`|`../resources/img/test.png`|
+|`recording.wav`|`../resources/snd/recording.wav`|
+|`main.py`|`./main.py`|
 
 ## Das Terminal / Die Kommandozeile / Die Shell
 Anstatt über die grafische Benutzeroberflaeche, kann man auch direkt über textbasierte Befehle mit dem Betriebssystem interagieren.
