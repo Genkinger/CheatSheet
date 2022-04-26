@@ -74,8 +74,8 @@ Es sei folgende Ordnerstruktur vorgegeben:
  ┃ ┗ 📜test1.png
 ```
 > Um vom aktuellen Verzeichnis `src` die Datei `test.png` aus `img` zu referenzieren, benötigen wir den relativen Pfad `../resources/img/test.png`.
-> |Datei|Pfad ausgehend von `src`
 
+|Datei|Pfad ausgehend von `src`|
 |-|-|
 |`test1.png`| `./test1.png`|
 |`test2.png`|`../resources/img/test.png`|
