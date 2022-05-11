@@ -130,5 +130,7 @@ Alternativ kann man sich den Pfad in der `cmd` auch durch den Befehl `path` anze
 |cls| - | clears the terminal | YES | YES |
 |clear| -| clears the terminal | YES | NO |
 |path| - | shows contents of the PATH environment variable| NO | YES |
-
 # Python
+
+# Paper
+[Using Jitter and Shimmer in speaker verification](https://www.researchgate.net/profile/Amina-Ben-Abdallah/post/How_can_we_fuse_shimmer_and_jitter_with_MFCC_or_any_spectral_features_PLP_or_LPC_or_techniques/attachment/59d61e206cda7b8083a17467/AS%3A272540763656209%401441990189397/download/Using+Jitter+and+Shimmer+in+speaker+verification.pdf)
